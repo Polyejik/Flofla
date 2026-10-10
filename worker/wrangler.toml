@@ -1,0 +1,8 @@
+name = "flofla-checkout"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+# Set your own Cloudflare D1 database_id after creating database.
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "flofla-orders"
+# database_id = "REPLACE_WITH_D1_ID"
